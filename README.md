@@ -1,6 +1,6 @@
 # Projet TP Git
 
-**Nom du projet : À REMPLACER PAR LE GROUPE**
+3 étant votre numéro de groupe sur MyGES
 
 Bienvenue dans ce petit TP Git.
 
